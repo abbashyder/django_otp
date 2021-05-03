@@ -1,0 +1,17 @@
+*.pyc
+**/migrations/**
+!**/migrations/__init__.py
+__pycache__
+dbenv/
+denv/
+*.sqlite3
+*/transactions/migrations/
+*/.vscode/
+senv/
+.vscode/
+/transactions/migrations
+*/inventory/migrations/
+/inventory/migrations/
+/api_v_1_1_0/migrations
+Terminal Saved Output
+.coverage
